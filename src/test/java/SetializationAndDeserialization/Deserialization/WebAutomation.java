@@ -1,6 +1,6 @@
-package SetializationAndDeserialization;
+package SetializationAndDeserialization.Deserialization;
 
-public class Api {
+public class WebAutomation {
     private String courseTitle;
     private String price;
 

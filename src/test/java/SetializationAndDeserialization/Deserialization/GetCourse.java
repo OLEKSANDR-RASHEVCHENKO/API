@@ -1,4 +1,4 @@
-package SetializationAndDeserialization;
+package SetializationAndDeserialization.Deserialization;
 
 //Using in OAuth class
 

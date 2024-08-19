@@ -1,12 +1,11 @@
 package OAuth;
 
-import SetializationAndDeserialization.Api;
-import SetializationAndDeserialization.GetCourse;
-import SetializationAndDeserialization.WebAutomation;
+import SetializationAndDeserialization.Deserialization.Api;
+import SetializationAndDeserialization.Deserialization.GetCourse;
+import SetializationAndDeserialization.Deserialization.WebAutomation;
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
